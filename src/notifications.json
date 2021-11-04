@@ -1,0 +1,652 @@
+[
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "Some orders have been made for 200 cartons of drinks, 200 cartons of Noodles, toiletries and other house hold equipment. the details of the order andcontract documents will be sent in on Monday", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Charles and sons Limited" 
+    },
+    { 
+        "Subject": "WHAT ARE QUEUE DATA STRUCTURES", 
+        "IsChecked": false, 
+        "Body": "This is a unique data structure that receives data and treats them one after the other from the first input to the last. It follows the behavior LILO meaning “Last in Last Out” or FIFO, meaning “First in First Out”. The queue data structure is used to model real life examples of queues. Example of which are the customer services given at a bank where the first customer is being attended to first.", 
+        "Time": "3:42pm", 
+        "read": false, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "CypherCrescent Limited"
+    },
+    {
+        "Subject": "2 Days to Our 8th Anniversary Sale", 
+        "IsChecked": false, 
+        "Body": "The queue data structure is implemented in c# programming language by the .Net Framework via the Queue<T> class. The most frequently used operations using queues are as follows", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false,
+        "IsOpen": false,
+        "sender": "Jumia"
+    },
+    {
+        "Subject": "Conoil Plc releases FY financial result for 2019, profit up by 11% ", 
+        "IsChecked": false, 
+        "Body": "The Nigerian petroleum marketing giant, Conoil Plc, has released its audited financial statement for the full year 2019, which shows improvement in some key performance indicators. The result released by the oil company shows an 11% increase in profits.", 
+        "Time": "3:42pm", 
+        "read": false, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "Conoil Nigeria Plc"
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "We are pleased to announce our decision to seal the deals as earlier discussed in our previous meetings. Thank you for everything", 
+        "Time": "7/4/2020", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Family stores"
+     },
+    {
+        "Subject": "We are running out of Stock", 
+        "IsChecked": false, 
+        "Body": "Most products are out of stock and we finance are required to order for more products for sale.", 
+        "Time": "3:42pm", 
+        "read": false,
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "Order Arrivals", 
+        "IsChecked": false, 
+        "Body": "Your oder has been delivered to the address supplied during ordering. Please fill out the form below to confirm the delivery. products having faults can only be returned in one week.", 
+        "Time": "9/4/2020",
+        "read": false,
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Jumia"
+    },
+    {
+        "Subject": "High Sales Recorded Today. ", 
+        "IsChecked": false, 
+        "Body": "We are pleased to announce that there was a high record of sales reported today. This is as a result of the forthcoming lockdown as customers are panic buying ", 
+        "Time": "3/3/2019", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender":"Charles and sons Limited"
+    },
+    { 
+        "Subject": "Revenue for the oil firm", 
+        "IsChecked": false, 
+        "Body": "The highlight of the report shows that the Revenue for the oil firm as of December 31 2019 was N139.76 billion as against the N122.21 billion that was recorded for the corresponding period for 2018. This represents a 14% increase.",
+         "Time": "7/7/2019", 
+         "read": false, 
+         "Important": false, 
+         "IsOpen": false,
+         "sender":"Family stores"
+    },
+    {
+        "Subject": "Sales Report Today", 
+        "IsChecked": false, 
+        "Body": "The Cost of Sales as of December 31, 2019, was N126 billion as against the N109.44 billion that was recorded for the corresponding period for 2018. This represents a 15% increase.", 
+        "Time": "1/1/2020", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "The Gross Profit", 
+        "IsChecked": false, 
+        "Body": "The Gross Profit as of December 31, 2019, was N13. Billion as against the N12.8 billion that was achieved for the corresponding period for 2018. This shows an increase of 7.4%.", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    {
+        "Subject": "The Profit After Tax", 
+        "IsChecked": false, 
+        "Body": "The Profit After Tax for the oil firm shows an increase of 11% as it recorded N1.99 billion as of December 31, 2019, when compared to the N1.8 billion that was recorded for the corresponding period for the previous year.", 
+        "Time": "3:42pm", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "2 pairs of shoes", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "The Sales Representative" 
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "Some orders have been made for 200 cartons of drinks, 200 cartons of Noodles, toiletries and other house hold equipment. the details of the order andcontract documents will be sent in on Monday", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Charles and sons Limited" 
+    },
+    { 
+        "Subject": "WHAT ARE QUEUE DATA STRUCTURES", 
+        "IsChecked": false, 
+        "Body": "This is a unique data structure that receives data and treats them one after the other from the first input to the last. It follows the behavior LILO meaning “Last in Last Out” or FIFO, meaning “First in First Out”. The queue data structure is used to model real life examples of queues. Example of which are the customer services given at a bank where the first customer is being attended to first.", 
+        "Time": "3:42pm", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "CypherCrescent Limited"
+    },
+    {
+        "Subject": "2 Days to Our 8th Anniversary Sale", 
+        "IsChecked": false, 
+        "Body": "The queue data structure is implemented in c# programming language by the .Net Framework via the Queue<T> class. The most frequently used operations using queues are as follows", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false,
+        "IsOpen": false,
+        "sender": "Jumia"
+    },
+    {
+        "Subject": "Conoil Plc releases FY financial result for 2019, profit up by 11% ", 
+        "IsChecked": false, 
+        "Body": "The Nigerian petroleum marketing giant, Conoil Plc, has released its audited financial statement for the full year 2019, which shows improvement in some key performance indicators. The result released by the oil company shows an 11% increase in profits.", 
+        "Time": "3:42pm", 
+        "read": false, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "Conoil Nigeria Plc"
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "We are pleased to announce our decision to seal the deals as earlier discussed in our previous meetings. Thank you for everything", 
+        "Time": "7/4/2020", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Family stores"
+     },
+    {
+        "Subject": "We are running out of Stock", 
+        "IsChecked": false, 
+        "Body": "Most products are out of stock and we finance are required to order for more products for sale.", 
+        "Time": "3:42pm", 
+        "read": false,
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "Order Arrivals", 
+        "IsChecked": false, 
+        "Body": "Your oder has been delivered to the address supplied during ordering. Please fill out the form below to confirm the delivery. products having faults can only be returned in one week.", 
+        "Time": "9/4/2020",
+        "read": false,
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Jumia"
+    },
+    {
+        "Subject": "High Sales Recorded Today. ", 
+        "IsChecked": false, 
+        "Body": "We are pleased to announce that there was a high record of sales reported today. This is as a result of the forthcoming lockdown as customers are panic buying ", 
+        "Time": "3/3/2019", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender":"Charles and sons Limited"
+    },
+    { 
+        "Subject": "Revenue for the oil firm", 
+        "IsChecked": false, 
+        "Body": "The highlight of the report shows that the Revenue for the oil firm as of December 31 2019 was N139.76 billion as against the N122.21 billion that was recorded for the corresponding period for 2018. This represents a 14% increase.",
+         "Time": "7/7/2019", 
+         "read": false, 
+         "Important": false, 
+         "IsOpen": false,
+         "sender":"Family stores"
+    },
+    {
+        "Subject": "Sales Report Today", 
+        "IsChecked": false, 
+        "Body": "The Cost of Sales as of December 31, 2019, was N126 billion as against the N109.44 billion that was recorded for the corresponding period for 2018. This represents a 15% increase.", 
+        "Time": "1/1/2020", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "The Gross Profit", 
+        "IsChecked": false, 
+        "Body": "The Gross Profit as of December 31, 2019, was N13. Billion as against the N12.8 billion that was achieved for the corresponding period for 2018. This shows an increase of 7.4%.", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    {
+        "Subject": "The Profit After Tax", 
+        "IsChecked": false, 
+        "Body": "The Profit After Tax for the oil firm shows an increase of 11% as it recorded N1.99 billion as of December 31, 2019, when compared to the N1.8 billion that was recorded for the corresponding period for the previous year.", 
+        "Time": "3:42pm", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "2 pairs of shoes", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "The Sales Representative" 
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "Some orders have been made for 200 cartons of drinks, 200 cartons of Noodles, toiletries and other house hold equipment. the details of the order andcontract documents will be sent in on Monday", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Charles and sons Limited" 
+    },
+    { 
+        "Subject": "WHAT ARE QUEUE DATA STRUCTURES", 
+        "IsChecked": false, 
+        "Body": "This is a unique data structure that receives data and treats them one after the other from the first input to the last. It follows the behavior LILO meaning “Last in Last Out” or FIFO, meaning “First in First Out”. The queue data structure is used to model real life examples of queues. Example of which are the customer services given at a bank where the first customer is being attended to first.", 
+        "Time": "3:42pm", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "CypherCrescent Limited"
+    },
+    {
+        "Subject": "2 Days to Our 8th Anniversary Sale", 
+        "IsChecked": false, 
+        "Body": "The queue data structure is implemented in c# programming language by the .Net Framework via the Queue<T> class. The most frequently used operations using queues are as follows", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false,
+        "IsOpen": false,
+        "sender": "Jumia"
+    },
+    {
+        "Subject": "Conoil Plc releases FY financial result for 2019, profit up by 11% ", 
+        "IsChecked": false, 
+        "Body": "The Nigerian petroleum marketing giant, Conoil Plc, has released its audited financial statement for the full year 2019, which shows improvement in some key performance indicators. The result released by the oil company shows an 11% increase in profits.", 
+        "Time": "3:42pm", 
+        "read": false, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "Conoil Nigeria Plc"
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "We are pleased to announce our decision to seal the deals as earlier discussed in our previous meetings. Thank you for everything", 
+        "Time": "7/4/2020", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Family stores"
+     },
+    {
+        "Subject": "We are running out of Stock", 
+        "IsChecked": false, 
+        "Body": "Most products are out of stock and we finance are required to order for more products for sale.", 
+        "Time": "3:42pm", 
+        "read": false,
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "Order Arrivals", 
+        "IsChecked": false, 
+        "Body": "Your oder has been delivered to the address supplied during ordering. Please fill out the form below to confirm the delivery. products having faults can only be returned in one week.", 
+        "Time": "9/4/2020",
+        "read": false,
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Jumia"
+    },
+    {
+        "Subject": "High Sales Recorded Today. ", 
+        "IsChecked": false, 
+        "Body": "We are pleased to announce that there was a high record of sales reported today. This is as a result of the forthcoming lockdown as customers are panic buying ", 
+        "Time": "3/3/2019", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender":"Charles and sons Limited"
+    },
+    { 
+        "Subject": "Revenue for the oil firm", 
+        "IsChecked": false, 
+        "Body": "The highlight of the report shows that the Revenue for the oil firm as of December 31 2019 was N139.76 billion as against the N122.21 billion that was recorded for the corresponding period for 2018. This represents a 14% increase.",
+         "Time": "7/7/2019", 
+         "read": false, 
+         "Important": false, 
+         "IsOpen": false,
+         "sender":"Family stores"
+    },
+    {
+        "Subject": "Sales Report Today", 
+        "IsChecked": false, 
+        "Body": "The Cost of Sales as of December 31, 2019, was N126 billion as against the N109.44 billion that was recorded for the corresponding period for 2018. This represents a 15% increase.", 
+        "Time": "1/1/2020", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "The Gross Profit", 
+        "IsChecked": false, 
+        "Body": "The Gross Profit as of December 31, 2019, was N13. Billion as against the N12.8 billion that was achieved for the corresponding period for 2018. This shows an increase of 7.4%.", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    {
+        "Subject": "The Profit After Tax", 
+        "IsChecked": false, 
+        "Body": "The Profit After Tax for the oil firm shows an increase of 11% as it recorded N1.99 billion as of December 31, 2019, when compared to the N1.8 billion that was recorded for the corresponding period for the previous year.", 
+        "Time": "3:42pm", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "2 pairs of shoes", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "The Sales Representative" 
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "Some orders have been made for 200 cartons of drinks, 200 cartons of Noodles, toiletries and other house hold equipment. the details of the order andcontract documents will be sent in on Monday", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Charles and sons Limited" 
+    },
+    { 
+        "Subject": "WHAT ARE QUEUE DATA STRUCTURES", 
+        "IsChecked": false, 
+        "Body": "This is a unique data structure that receives data and treats them one after the other from the first input to the last. It follows the behavior LILO meaning “Last in Last Out” or FIFO, meaning “First in First Out”. The queue data structure is used to model real life examples of queues. Example of which are the customer services given at a bank where the first customer is being attended to first.", 
+        "Time": "3:42pm", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "CypherCrescent Limited"
+    },
+    {
+        "Subject": "2 Days to Our 8th Anniversary Sale", 
+        "IsChecked": false, 
+        "Body": "The queue data structure is implemented in c# programming language by the .Net Framework via the Queue<T> class. The most frequently used operations using queues are as follows", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false,
+        "IsOpen": false,
+        "sender": "Jumia"
+    },
+    {
+        "Subject": "Conoil Plc releases FY financial result for 2019, profit up by 11% ", 
+        "IsChecked": false, 
+        "Body": "The Nigerian petroleum marketing giant, Conoil Plc, has released its audited financial statement for the full year 2019, which shows improvement in some key performance indicators. The result released by the oil company shows an 11% increase in profits.", 
+        "Time": "3:42pm", 
+        "read": false, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "Conoil Nigeria Plc"
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "We are pleased to announce our decision to seal the deals as earlier discussed in our previous meetings. Thank you for everything", 
+        "Time": "7/4/2020", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Family stores"
+     },
+    {
+        "Subject": "We are running out of Stock", 
+        "IsChecked": false, 
+        "Body": "Most products are out of stock and we finance are required to order for more products for sale.", 
+        "Time": "3:42pm", 
+        "read": false,
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "Order Arrivals", 
+        "IsChecked": false, 
+        "Body": "Your oder has been delivered to the address supplied during ordering. Please fill out the form below to confirm the delivery. products having faults can only be returned in one week.", 
+        "Time": "9/4/2020",
+        "read": false,
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Jumia"
+    },
+    {
+        "Subject": "High Sales Recorded Today. ", 
+        "IsChecked": false, 
+        "Body": "We are pleased to announce that there was a high record of sales reported today. This is as a result of the forthcoming lockdown as customers are panic buying ", 
+        "Time": "3/3/2019", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender":"Charles and sons Limited"
+    },
+    { 
+        "Subject": "Revenue for the oil firm", 
+        "IsChecked": false, 
+        "Body": "The highlight of the report shows that the Revenue for the oil firm as of December 31 2019 was N139.76 billion as against the N122.21 billion that was recorded for the corresponding period for 2018. This represents a 14% increase.",
+         "Time": "7/7/2019", 
+         "read": false, 
+         "Important": false, 
+         "IsOpen": false,
+         "sender":"Family stores"
+    },
+    {
+        "Subject": "Sales Report Today", 
+        "IsChecked": false, 
+        "Body": "The Cost of Sales as of December 31, 2019, was N126 billion as against the N109.44 billion that was recorded for the corresponding period for 2018. This represents a 15% increase.", 
+        "Time": "1/1/2020", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "The Gross Profit", 
+        "IsChecked": false, 
+        "Body": "The Gross Profit as of December 31, 2019, was N13. Billion as against the N12.8 billion that was achieved for the corresponding period for 2018. This shows an increase of 7.4%.", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    {
+        "Subject": "The Profit After Tax", 
+        "IsChecked": false, 
+        "Body": "The Profit After Tax for the oil firm shows an increase of 11% as it recorded N1.99 billion as of December 31, 2019, when compared to the N1.8 billion that was recorded for the corresponding period for the previous year.", 
+        "Time": "3:42pm", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "2 pairs of shoes", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "The Sales Representative" 
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "Some orders have been made for 200 cartons of drinks, 200 cartons of Noodles, toiletries and other house hold equipment. the details of the order andcontract documents will be sent in on Monday", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Charles and sons Limited" 
+    },
+    { 
+        "Subject": "WHAT ARE QUEUE DATA STRUCTURES", 
+        "IsChecked": false, 
+        "Body": "This is a unique data structure that receives data and treats them one after the other from the first input to the last. It follows the behavior LILO meaning “Last in Last Out” or FIFO, meaning “First in First Out”. The queue data structure is used to model real life examples of queues. Example of which are the customer services given at a bank where the first customer is being attended to first.", 
+        "Time": "3:42pm", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "CypherCrescent Limited"
+    },
+    {
+        "Subject": "2 Days to Our 8th Anniversary Sale", 
+        "IsChecked": false, 
+        "Body": "The queue data structure is implemented in c# programming language by the .Net Framework via the Queue<T> class. The most frequently used operations using queues are as follows", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false,
+        "IsOpen": false,
+        "sender": "Jumia"
+    },
+    {
+        "Subject": "Conoil Plc releases FY financial result for 2019, profit up by 11% ", 
+        "IsChecked": false, 
+        "Body": "The Nigerian petroleum marketing giant, Conoil Plc, has released its audited financial statement for the full year 2019, which shows improvement in some key performance indicators. The result released by the oil company shows an 11% increase in profits.", 
+        "Time": "3:42pm", 
+        "read": false, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "Conoil Nigeria Plc"
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "We are pleased to announce our decision to seal the deals as earlier discussed in our previous meetings. Thank you for everything", 
+        "Time": "7/4/2020", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Family stores"
+     },
+    {
+        "Subject": "We are running out of Stock", 
+        "IsChecked": false, 
+        "Body": "Most products are out of stock and we finance are required to order for more products for sale.", 
+        "Time": "3:42pm", 
+        "read": false,
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "Order Arrivals", 
+        "IsChecked": false, 
+        "Body": "Your oder has been delivered to the address supplied during ordering. Please fill out the form below to confirm the delivery. products having faults can only be returned in one week.", 
+        "Time": "9/4/2020",
+        "read": false,
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "Jumia"
+    },
+    {
+        "Subject": "High Sales Recorded Today. ", 
+        "IsChecked": false, 
+        "Body": "We are pleased to announce that there was a high record of sales reported today. This is as a result of the forthcoming lockdown as customers are panic buying ", 
+        "Time": "3/3/2019", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender":"Charles and sons Limited"
+    },
+    { 
+        "Subject": "Revenue for the oil firm", 
+        "IsChecked": false, 
+        "Body": "The highlight of the report shows that the Revenue for the oil firm as of December 31 2019 was N139.76 billion as against the N122.21 billion that was recorded for the corresponding period for 2018. This represents a 14% increase.",
+         "Time": "7/7/2019", 
+         "read": false, 
+         "Important": false, 
+         "IsOpen": false,
+         "sender":"Family stores"
+    },
+    {
+        "Subject": "Sales Report Today", 
+        "IsChecked": false, 
+        "Body": "The Cost of Sales as of December 31, 2019, was N126 billion as against the N109.44 billion that was recorded for the corresponding period for 2018. This represents a 15% increase.", 
+        "Time": "1/1/2020", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "The Gross Profit", 
+        "IsChecked": false, 
+        "Body": "The Gross Profit as of December 31, 2019, was N13. Billion as against the N12.8 billion that was achieved for the corresponding period for 2018. This shows an increase of 7.4%.", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    {
+        "Subject": "The Profit After Tax", 
+        "IsChecked": false, 
+        "Body": "The Profit After Tax for the oil firm shows an increase of 11% as it recorded N1.99 billion as of December 31, 2019, when compared to the N1.8 billion that was recorded for the corresponding period for the previous year.", 
+        "Time": "3:42pm", 
+        "read": true, 
+        "Important": true, 
+        "IsOpen": false,
+        "sender": "The Sales Representative"
+    },
+    { 
+        "Subject": "New Order", 
+        "IsChecked": false, 
+        "Body": "2 pairs of shoes", 
+        "Time": "2:30am", 
+        "read": false, 
+        "Important": false, 
+        "IsOpen": false,
+        "sender": "The Sales Representative" 
+    }
+]
